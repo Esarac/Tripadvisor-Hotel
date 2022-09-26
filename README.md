@@ -1,2 +1,2 @@
 # Tripadvisor-Hotel
-IA Project
+AI II Project
