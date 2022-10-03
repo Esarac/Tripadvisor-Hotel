@@ -1,1 +1,3 @@
-data
+# Data
+data/*
+!data/README.md
