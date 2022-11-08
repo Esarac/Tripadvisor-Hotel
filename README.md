@@ -1,6 +1,6 @@
 # Tripadvisor: Hotels ✈🏨
 ## What is this all about? 🗨
-This is a research project that analyzes the impact of sustainability related topics at some TripAdvisor hotels. The results of this project will be published in two papers answering the three main research questions and deployed on a website that shows all the hotel summaries and ratings. In this repository, you will find all the scripts used in this research.
+This is a research project to analyzes the impact of sustainability related topics at some TripAdvisor hotels. The results will be published in two papers answering the three main research questions and deployed on a website that shows all the hotel summaries and ratings. In this repository, you will find all the scripts used in this research.
 
 ## Research questions ❓
 * User query-based system able to summarize client reviews and answer questions based on TripAdvisor comments in order to take a well-informed decision.
